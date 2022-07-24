@@ -1,2 +1,1 @@
-# DiseaseDetectionusingML
-Detection of COVID, Malaria, Heart and Breast Cancer
+# Sample Repo1
